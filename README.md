@@ -1,6 +1,6 @@
 #bem vindo(a) ao meu peril!!😄😄
 
-Me chamo Moara schneier
+Me chamo Moara schneider
 
 -sou uma estudante da plataorma alura😫
 -estou desenvolvendo linguagem no Javascript
